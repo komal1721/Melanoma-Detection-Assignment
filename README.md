@@ -26,4 +26,4 @@
 - PIL - version 9.4.0
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@komal1721] - feel free to contact me!
